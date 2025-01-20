@@ -11,23 +11,7 @@ Here is the project's link https://github.com/eliyevaulviye/HrDataDashboard
 ### Preview
 ![Ekran şəkli 2025-01-20 193729](https://github.com/user-attachments/assets/a2ae1c95-36f3-4d49-b806-96d2bbe95346)
 
-
-
-
-# [Project 2: Bank Customer Credit Risk Analysis Dashboard](https://github.com/eliyevaulviye/BankCustomerAnalysis)
-
-
-This repository features a Power BI dashboard that provides an in-depth analysis of bank customer credit data. The dashboard is designed to assess credit risks, identify payment patterns, and segment customers based on their financial behaviors.
-Here is the project's link https://github.com/eliyevaulviye/BankCustomerAnalysis
-
-### Preview
-![{10C3AB28-346C-4F84-8F34-C329EB3FDF54}](https://github.com/user-attachments/assets/75cfa381-f3eb-4b13-ad0a-2f5f9d22e1b8)
-
-
-
-
-
-# [Project 3: Human Resources Data Dashboard](https://github.com/eliyevaulviye/HRDashboard)
+# [Project 2: Human Resources Data Dashboard](https://github.com/eliyevaulviye/HRDashboard)
 
 This repository contains a Power BI dashboard created to analyze HR data and provide valuable insights into workforce trends and metrics. The dashboard is designed to help organizations optimize their human resource strategies and improve employee management with comprehensive view of employee demographics such as age, gender, and department distribution.
 
@@ -39,6 +23,16 @@ Here is the project's link https://github.com/eliyevaulviye/HRDashboard
 
 
 
+
+
+# [Project 3: Bank Customer Credit Risk Analysis Dashboard](https://github.com/eliyevaulviye/BankCustomerAnalysis)
+
+
+This repository features a Power BI dashboard that provides an in-depth analysis of bank customer credit data. The dashboard is designed to assess credit risks, identify payment patterns, and segment customers based on their financial behaviors.
+Here is the project's link https://github.com/eliyevaulviye/BankCustomerAnalysis
+
+### Preview
+![{10C3AB28-346C-4F84-8F34-C329EB3FDF54}](https://github.com/user-attachments/assets/75cfa381-f3eb-4b13-ad0a-2f5f9d22e1b8)
 
 
 
