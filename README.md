@@ -1,5 +1,5 @@
 # Ulviyya's Portfolio
-Data Analytics Portfolio using Power BI
+Data Analytics Portfolio using Power BI.
 
 # [Project 1: HR Data Dashboard](https://github.com/eliyevaulviye/HrDataDashboard)
 
