@@ -1,7 +1,20 @@
 # Ulviyya's Portfolio
-Data Analytics Portfolio using Power BI.
+Welcome to my Data Analytics portfolio! 🚀 Here, you'll find a collection of projects and dashboards built using Power BI and SQL, showcasing my skills in data cleaning, visualization, and analysis
 
-# [Project 1: HR Data Dashboard](https://github.com/eliyevaulviye/HrDataDashboard)
+## SQL Projects
+
+### [Project 1: Nashville Housing data cleaning using SQL](https://github.com/eliyevaulviye/Nashville-Housing-Data-Cleaning-)
+This project focuses on cleaning and preparing the Nashville Housing Dataset using SQL. The dataset contains property records, including addresses, ownership details, and sale information.
+
+🛠️ Data Cleaning Steps:
+Filled missing property addresses using available parcelIDs.
+Split property and owner addresses into separate columns for street, city, and state.
+Standardized categorical values (e.g., changed 'Y' and 'N' to 'Yes' and 'No' in the SoldAsVacant column).
+Removed unnecessary columns to enhance the dataset efficiency.
+
+## Power BI Projects
+
+### [Project 1: HR Data Dashboard](https://github.com/eliyevaulviye/HrDataDashboard)
 
 
 This is a project I did for analyzing Human Resources data. The dashboard provides insights into employee data, including attrition rates, gender, age bands, department, job roles, performance ratings, and more. It helps to visualize key HR metrics that can inform workforce management decisions.
@@ -11,7 +24,7 @@ Here is the project's link https://github.com/eliyevaulviye/HrDataDashboard
 ### Preview
 ![Ekran şəkli 2025-01-20 193729](https://github.com/user-attachments/assets/a2ae1c95-36f3-4d49-b806-96d2bbe95346)
 
-# [Project 2: Human Resources Data Dashboard](https://github.com/eliyevaulviye/HRDashboard)
+### [Project 2: Human Resources Data Dashboard](https://github.com/eliyevaulviye/HRDashboard)
 
 This repository contains a Power BI dashboard created to analyze HR data and provide valuable insights into workforce trends and metrics. The dashboard is designed to help organizations optimize their human resource strategies and improve employee management with comprehensive view of employee demographics such as age, gender, and department distribution.
 
@@ -25,7 +38,7 @@ Here is the project's link https://github.com/eliyevaulviye/HRDashboard
 
 
 
-# [Project 3: Bank Customer Credit Risk Analysis Dashboard](https://github.com/eliyevaulviye/BankCustomerAnalysis)
+### [Project 3: Bank Customer Credit Risk Analysis Dashboard](https://github.com/eliyevaulviye/BankCustomerAnalysis)
 
 
 This repository features a Power BI dashboard that provides an in-depth analysis of bank customer credit data. The dashboard is designed to assess credit risks, identify payment patterns, and segment customers based on their financial behaviors.
@@ -39,7 +52,7 @@ Here is the project's link https://github.com/eliyevaulviye/BankCustomerAnalysis
 
 
 
-# [Project 4: Customer Behavior Analysis Dashboard](https://github.com/eliyevaulviye/CustomerBehaviorAnalysisDashboard)
+### [Project 4: Customer Behavior Analysis Dashboard](https://github.com/eliyevaulviye/CustomerBehaviorAnalysisDashboard)
 
 This Power BI dashboard designed for analyzing customer behavior patterns and generating actionable insights. The dashboard focuses on advanced data analysis and interactive visualizations to better understand customer segments and their purchasing trends.
 
