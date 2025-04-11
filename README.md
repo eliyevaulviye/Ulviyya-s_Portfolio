@@ -45,8 +45,9 @@ This Power BI dashboard presents a comprehensive analysis of sales performance a
 Here is the project's link https://github.com/eliyevaulviye/Sales-and-Churn-Analysis-Dashboard
 
 ### Preview
+## 1 
 ![image](https://github.com/user-attachments/assets/de77db47-8e05-4113-9e31-21e9c798b2a0)
-
+## 2
 ![image](https://github.com/user-attachments/assets/d251e0ce-604d-444e-9c53-925d46999bcc)
 
 
