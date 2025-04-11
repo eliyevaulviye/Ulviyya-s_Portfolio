@@ -38,6 +38,19 @@ Removed unnecessary columns to enhance the dataset efficiency.
 
 ## Power BI Projects
 
+### [Project 1 : Sales and Churn Analysis Dashboard](https://github.com/eliyevaulviye/Sales-and-Churn-Analysis-Dashboard)
+
+This Power BI dashboard presents a comprehensive analysis of sales performance and customer churn trends. The goal of this project is to identify key drivers of churn and uncover actionable insights to improve retention and boost overall revenue.
+
+Here is the project's link https://github.com/eliyevaulviye/Sales-and-Churn-Analysis-Dashboard
+
+### Preview
+![image](https://github.com/user-attachments/assets/de77db47-8e05-4113-9e31-21e9c798b2a0)
+
+![image](https://github.com/user-attachments/assets/d251e0ce-604d-444e-9c53-925d46999bcc)
+
+
+
 ### [Project 1: HR Data Dashboard](https://github.com/eliyevaulviye/HrDataDashboard)
 
 
