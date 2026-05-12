@@ -1,6 +1,39 @@
 # Ulviyya's Portfolio
 Welcome to my Data Analytics portfolio! 🚀 Here, you'll find a collection of projects and dashboards built using Python, Power BI and SQL, showcasing my skills in data cleaning, visualization, and analysis
 
+## ML Projects 
+
+### [Project 1: Titanic Survival Prediction using Machine Learning](https://github.com/eliyevaulviye/kaggle_titanic)
+
+This project is an end-to-end machine learning pipeline built for the [Kaggle Titanic competition](https://www.kaggle.com/competitions/titanic). The goal is to predict passenger survival using features such as age, gender, passenger class, fare, and family information.
+
+### Steps in Analysis
+
+1. Data Preprocessing & Cleaning  
+Handled missing values, encoded categorical variables, and prepared the dataset for modeling.
+
+2. Exploratory Data Analysis (EDA)  
+Created visualizations to analyze survival rates by gender, passenger class, age distribution, and feature correlations.
+
+3. Feature Engineering  
+Generated new features including passenger titles, family size, deck information, age groups, and ticket frequency.
+
+4. Model Training & Evaluation  
+Trained and compared multiple ML models including Logistic Regression, Random Forest, XGBoost, LightGBM, and SVM using cross-validation.
+
+5. Ensemble Learning & Tuning  
+Applied GridSearchCV for hyperparameter tuning and built a soft voting ensemble model for final predictions.
+
+ Key Outcomes
+
+- Improved prediction accuracy through feature engineering and ensemble learning.
+- Built a complete Kaggle-ready ML workflow from preprocessing to submission generation.
+
+ Technologies Used
+
+Python (pandas, numpy, seaborn, matplotlib, scikit-learn, xgboost, lightgbm)  
+Google Colab / Jupyter Notebook
+
 ## Python Projects
 
 ### [Project 1: Advanced Statistical Analysis Using Python](https://github.com/eliyevaulviye/Advanced-Statistical-Analysis)
