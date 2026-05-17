@@ -1,5 +1,5 @@
 # Ulviyya's Portfolio
-Welcome to my Data Analytics portfolio! 🚀 Here, you'll find a collection of projects and dashboards built using Python, Power BI and SQL, showcasing my skills in data cleaning, visualization, and analysis
+Welcome to my portfolio! 🚀 Here, you'll find a collection of projects and dashboards built using Python, Power BI and SQL, showcasing my skills in data cleaning, visualization, and analysis
 
 ## ML Projects 
 
