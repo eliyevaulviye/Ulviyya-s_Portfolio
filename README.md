@@ -9,6 +9,13 @@ Contributed as a Data & QA Engineer to an AI-powered Azerbaijani voice assistant
 
 Tech: Python, FastAPI, PostgreSQL, RAG, Speech-to-Text, LLM, Text-to-Speech, Docker
 
+
+### [Smart Order — AI-Powered Retail Demand Forecasting | Hackathon Project](https://github.com/ElvinNasirov/smart-order)
+
+Developed an AI-powered retail solution that standardizes sales reports from different Excel formats using a local LLM (Ollama/Qwen2.5), stores structured data in SQLite, and predicts next-day product demand using LightGBM. Built an interactive Streamlit interface for uploading sales reports and generating order forecasts.
+
+Tech: Python, Ollama, Qwen2.5, Pandas, SQLite, LightGBM, Streamlit 
+
 ## ML Projects 
 
 ### [Project 1: Titanic Survival Prediction using Machine Learning](https://github.com/eliyevaulviye/kaggle_titanic)
