@@ -16,6 +16,7 @@ Developed an AI-powered retail solution that standardizes sales reports from dif
 
 Tech: Python, Ollama, Qwen2.5, Pandas, SQLite, LightGBM, Streamlit 
 
+
 ## ML Projects 
 
 ### [Project 1: Titanic Survival Prediction using Machine Learning](https://github.com/eliyevaulviye/kaggle_titanic)
@@ -48,6 +49,13 @@ Applied GridSearchCV for hyperparameter tuning and built a soft voting ensemble 
 
 Python (pandas, numpy, seaborn, matplotlib, scikit-learn, xgboost, lightgbm)  
 Google Colab / Jupyter Notebook
+
+### [Azerbaijan Cotton Yield & Risk Prediction — Machine Learning Project](https://github.com/esliehmedova/agriculture-cotton-yield-prediction)
+
+Contributed as a Data Analyst & Visualization Engineer to a machine learning project analyzing 25 years of historical weather and district-level cotton production data in Azerbaijan. Performed exploratory data analysis, created heatmaps and regional yield comparisons, and developed visual reports to support 2025 cotton yield predictions and weather-related agricultural risk assessment.
+
+Tech: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, Open-Meteo API, DuckDB
+
 
 ## Python Projects
 
