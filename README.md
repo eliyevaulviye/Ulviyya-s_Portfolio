@@ -1,6 +1,14 @@
 # Ulviyya's Portfolio
 Welcome to my portfolio! 🚀 Here, you'll find a collection of projects and dashboards built using Python, Power BI and SQL, showcasing my skills in data cleaning, visualization, and analysis
 
+## AI Projects 
+
+### [AzVoice AI Astana Hotel](https://github.com/orxannuriyev/AzVoice-AI)
+
+Contributed as a Data & QA Engineer to an AI-powered Azerbaijani voice assistant for hotel call centers. Worked on data collection, system testing, response quality evaluation, and quality assurance to support accurate, natural, real-time voice interactions.
+
+Tech: Python, FastAPI, PostgreSQL, RAG, Speech-to-Text, LLM, Text-to-Speech, Docker
+
 ## ML Projects 
 
 ### [Project 1: Titanic Survival Prediction using Machine Learning](https://github.com/eliyevaulviye/kaggle_titanic)
